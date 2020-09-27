@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+ <meta charset='utf-8'>
+ <link rel="stylesheet" type="text/css" href="style.css" />
+ 
+ <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+ <script>
+ 
+     function toggleGarageDoor() 
+     {
+         var button_text = document.getElementById("GarageDoor_button").value;
+         document.getElementById("GarageDoor_button").style.background='#ff5050';
+         document.getElementById("GarageDoor_button").style.color='#000000';
+         ajaxLoad('OPENGARAGE');
+     }
+     function toggleBackGateWhole() 
+     {
+         var button_text = document.getElementById("BackGateWhole_button").value;
+         document.getElementById("BackGateWhole_button").style.background='#ff5050';
+         document.getElementById("BackGateWhole_button").style.color='#000000';
+         ajaxLoad('OPENBACKGATEWHOLE');
+     }
+     function toggleBackGateHalf() 
+     {
+         var button_text = document.getElementById("BackGateHalf_button").value;
+         document.getElementById("BackGateHalf_button").style.background='#ff5050';
+         document.getElementById("BackGateHalf_button").style.color='#000000';
+         ajaxLoad('OPENBACKGATEHALF');
+     }
+     function toggleFrontGateWhole() 
+     {
+         var button_text = document.getElementById("FrontGateWhole_button").value;
+         document.getElementById("FrontGateWhole_button").style.background='#ff5050';
+         document.getElementById("FrontGateWhole_button").style.color='#000000';
+         ajaxLoad('OPENFRONTGATEWHOLE');
+     }
+     function toggleFrontGateHalf() 
+     {
+         var button_text = document.getElementById("FrontGateHalf_button").value;
+         document.getElementById("FrontGateHalf_button").style.background='#ff5050';
+         document.getElementById("FrontGateHalf_button").style.color='#000000';
+         ajaxLoad('OPENFRONTGATEHALF');
+     }
+  
+     var ajaxRequest = null;
+     if (window.XMLHttpRequest)  
+     { 
+         ajaxRequest =new XMLHttpRequest(); 
+     }
+     else                        
+     { 
+         ajaxRequest =new ActiveXObject("Microsoft.XMLHTTP"); 
+     }
+  
+     function ajaxLoad(ajaxURL)
+     {
+         console.log(JSON.stringify({gate: ajaxURL}));
+       jQuery.ajax({
+           type: "POST",
+           url: "/",
+           contentType: "application/json",
+           data: JSON.stringify({gate: ajaxURL}),
+           success:(data)=>{
+             console.log(data);
+             var ack = JSON.parse(data).ack.toString();
+             if ( ack === "706" )   
+                 { 
+                     document.getElementById("GarageDoor_button").style.background='#252526';
+                     document.getElementById("GarageDoor_button").style.color='#829297'; 
+                 } 
+                 else if ( ack === "828" )   
+                 { 
+                     document.getElementById("BackGateWhole_button").style.background='#252526';
+                     document.getElementById("BackGateWhole_button").style.color='#829297'; 
+                 }
+                 else if ( ack === "939" )   
+                 { 
+                     document.getElementById("BackGateHalf_button").style.background='#252526';
+                     document.getElementById("BackGateHalf_button").style.color='#829297'; 
+                 }               
+           }
+       });
+       /*
+         if(!ajaxRequest)
+         { 
+             alert("AJAX is not supported."); 
+             return; 
+         }
+         
+         ajaxRequest.open("GET",ajaxURL,true);
+         ajaxRequest.onreadystatechange = function()
+         {
+             if(ajaxRequest.readyState == 4 && ajaxRequest.status==200)
+             {
+                 var ajaxResult = ajaxRequest.responseText;
+                 if ( ajaxResult == "706" )   
+                 { 
+                     document.getElementById("GarageDoor_button").style.background='#252526';
+                     document.getElementById("GarageDoor_button").style.color='#829297'; 
+                 } 
+                 else if ( ajaxResult == "828" )   
+                 { 
+                     document.getElementById("BackGateWhole_button").style.background='#252526';
+                     document.getElementById("BackGateWhole_button").style.color='#829297'; 
+                 }
+                 else if ( ajaxResult == "939" )   
+                 { 
+                     document.getElementById("BackGateHalf_button").style.background='#252526';
+                     document.getElementById("BackGateHalf_button").style.color='#829297'; 
+                 }                
+                 //document.getElementById("reply").innerHTML = ajaxResult;
+             }
+         }
+         ajaxRequest.send();*/
+     }
+  
+ </script>
+ 
+ <title>Garage door automation system</title>
+</head>
+<body>
+
+  <%- body %>
+ </div>
+</body>
+</html>

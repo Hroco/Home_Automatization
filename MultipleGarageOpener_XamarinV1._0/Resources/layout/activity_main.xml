@@ -1,0 +1,59 @@
+
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/textView1"
+        android:textSize="50dp"
+        android:gravity="center_horizontal"
+        android:textStyle="normal"
+        android:layout_marginTop="13.0dp" />
+    <Button
+        android:text="@string/garage"
+        android:layout_width="match_parent"
+        android:layout_height="65.0dp"
+        android:id="@+id/button1"
+        android:layout_marginTop="90.0dp"
+        android:layout_marginLeft="25.5dp"
+        android:layout_marginRight="25.5dp" />
+    <Button
+        android:text="@string/rgw"
+        android:layout_width="match_parent"
+        android:layout_height="65.0dp"
+        android:id="@+id/button2"
+        android:layout_marginLeft="25.5dp"
+        android:layout_marginRight="25.5dp"
+        android:layout_marginTop="160.0dp" />
+    <Button
+        android:text="@string/rgh"
+        android:layout_width="match_parent"
+        android:layout_height="65.0dp"
+        android:id="@+id/button3"
+        android:layout_marginLeft="25.5dp"
+        android:layout_marginRight="25.5dp"
+        android:layout_marginTop="230.0dp" />
+    <Button
+        android:text="@string/fgw"
+        android:layout_width="match_parent"
+        android:layout_height="65.0dp"
+        android:id="@+id/button4"
+        android:layout_marginLeft="25.5dp"
+        android:layout_marginRight="25.5dp"
+        android:layout_marginTop="300.0dp" />
+    <Button
+        android:text="@string/fgh"
+        android:layout_width="match_parent"
+        android:layout_height="65.0dp"
+        android:id="@+id/button5"
+        android:layout_marginLeft="25.5dp"
+        android:layout_marginRight="25.5dp"
+        android:layout_marginTop="370.0dp" />
+
+</android.support.design.widget.CoordinatorLayout>

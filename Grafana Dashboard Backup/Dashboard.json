@@ -1,0 +1,1766 @@
+{
+    "annotations": {
+      "list": [
+        {
+          "builtIn": 1,
+          "datasource": "-- Grafana --",
+          "enable": true,
+          "hide": true,
+          "iconColor": "rgba(0, 211, 255, 1)",
+          "name": "Annotations & Alerts",
+          "type": "dashboard"
+        }
+      ]
+    },
+    "editable": true,
+    "gnetId": null,
+    "graphTooltip": 0,
+    "id": 1,
+    "links": [],
+    "panels": [
+      {
+        "bgColor": null,
+        "clockType": "24 hour",
+        "countdownSettings": {
+          "customFormat": null,
+          "endCountdownTime": "2020-07-10T16:13:00.000Z",
+          "endText": "00:00:00"
+        },
+        "datasource": null,
+        "dateSettings": {
+          "dateFormat": "YYYY-MM-DD",
+          "fontSize": "20px",
+          "fontWeight": "normal",
+          "showDate": false
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 4,
+          "x": 0,
+          "y": 0
+        },
+        "id": 19,
+        "mode": "time",
+        "options": {},
+        "refreshSettings": {
+          "syncWithDashboard": false
+        },
+        "timeFrom": null,
+        "timeSettings": {
+          "customFormat": "HH:mm:ss",
+          "fontSize": "60px",
+          "fontWeight": "normal"
+        },
+        "timeShift": null,
+        "timezone": null,
+        "timezoneSettings": {
+          "fontSize": "12px",
+          "fontWeight": "normal",
+          "showTimezone": false,
+          "zoneFormat": "offsetAbbv"
+        },
+        "title": "",
+        "transparent": true,
+        "type": "grafana-clock-panel"
+      },
+      {
+        "content": "<p style=\"font-size:500%;font-weight:bold;color:#C8D200;\">Detská izba</p>\n\n\n\n",
+        "datasource": null,
+        "gridPos": {
+          "h": 3,
+          "w": 7,
+          "x": 9,
+          "y": 0
+        },
+        "id": 15,
+        "mode": "html",
+        "options": {},
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "text"
+      },
+      {
+        "aliasColors": {
+          "hum": "blue",
+          "temp": "red"
+        },
+        "bars": false,
+        "dashLength": 10,
+        "dashes": false,
+        "datasource": "DataLogger",
+        "fill": 1,
+        "fillGradient": 0,
+        "gridPos": {
+          "h": 8,
+          "w": 24,
+          "x": 0,
+          "y": 3
+        },
+        "hiddenSeries": false,
+        "id": 2,
+        "legend": {
+          "avg": true,
+          "current": true,
+          "max": true,
+          "min": true,
+          "show": true,
+          "total": false,
+          "values": true
+        },
+        "lines": true,
+        "linewidth": 1,
+        "nullPointMode": "null",
+        "options": {
+          "dataLinks": []
+        },
+        "percentage": false,
+        "pointradius": 2,
+        "points": false,
+        "renderer": "flot",
+        "seriesOverrides": [
+          {
+            "alias": "hum",
+            "yaxis": 2
+          }
+        ],
+        "spaceLength": 10,
+        "stack": false,
+        "steppedLine": false,
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  avg(value) AS \"Temperature\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "avg"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "Temperature"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          },
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  avg(value) AS \"Humiodity\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "B",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "avg"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "Humiodity"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": [],
+        "timeFrom": null,
+        "timeRegions": [],
+        "timeShift": null,
+        "title": "",
+        "tooltip": {
+          "shared": true,
+          "sort": 0,
+          "value_type": "individual"
+        },
+        "transparent": true,
+        "type": "graph",
+        "xaxis": {
+          "buckets": null,
+          "mode": "time",
+          "name": null,
+          "show": true,
+          "values": []
+        },
+        "yaxes": [
+          {
+            "format": "celsius",
+            "label": null,
+            "logBase": 1,
+            "max": null,
+            "min": null,
+            "show": true
+          },
+          {
+            "format": "humidity",
+            "label": null,
+            "logBase": 1,
+            "max": null,
+            "min": null,
+            "show": true
+          }
+        ],
+        "yaxis": {
+          "align": false,
+          "alignLevel": null
+        }
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#FADE2A",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "celsius",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 7,
+          "x": 0,
+          "y": 11
+        },
+        "id": 4,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Temperature:",
+        "prefixFontSize": "150%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "150%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "current"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#FADE2A",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "percent",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 7,
+          "x": 13,
+          "y": 11
+        },
+        "id": 20,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Humidity:",
+        "prefixFontSize": "150%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "150%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "current"
+      },
+      {
+        "datasource": "DataLogger",
+        "gridPos": {
+          "h": 2,
+          "w": 11,
+          "x": 0,
+          "y": 13
+        },
+        "id": 6,
+        "options": {
+          "displayMode": "lcd",
+          "fieldOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "defaults": {
+              "mappings": [],
+              "max": 50,
+              "min": -10,
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "blue",
+                    "value": null
+                  },
+                  {
+                    "color": "green",
+                    "value": 20
+                  },
+                  {
+                    "color": "red",
+                    "value": 30
+                  }
+                ]
+              },
+              "unit": "celsius"
+            },
+            "overrides": [],
+            "values": false
+          },
+          "orientation": "horizontal",
+          "showUnfilled": true
+        },
+        "pluginVersion": "6.6.1",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "bargauge"
+      },
+      {
+        "datasource": "DataLogger",
+        "gridPos": {
+          "h": 2,
+          "w": 11,
+          "x": 13,
+          "y": 13
+        },
+        "id": 21,
+        "options": {
+          "displayMode": "lcd",
+          "fieldOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "defaults": {
+              "mappings": [],
+              "max": 100,
+              "min": 0,
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "blue",
+                    "value": null
+                  },
+                  {
+                    "color": "green",
+                    "value": 20
+                  },
+                  {
+                    "color": "red",
+                    "value": 60
+                  }
+                ]
+              },
+              "unit": "percent"
+            },
+            "overrides": [],
+            "values": false
+          },
+          "orientation": "horizontal",
+          "showUnfilled": true
+        },
+        "pluginVersion": "6.6.1",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "bargauge"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorPostfix": false,
+        "colorValue": true,
+        "colors": [
+          "#F2495C",
+          "#F2495C",
+          "#F2495C"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "celsius",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 0,
+          "y": 15
+        },
+        "id": 9,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Max:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  max(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "max"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "max"
+      },
+      {
+        "datasource": null,
+        "gridPos": {
+          "h": 6,
+          "w": 4,
+          "x": 5,
+          "y": 15
+        },
+        "id": 13,
+        "options": {
+          "fieldOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "defaults": {
+              "mappings": [],
+              "max": 50,
+              "min": -10,
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "blue",
+                    "value": null
+                  },
+                  {
+                    "color": "green",
+                    "value": 20
+                  },
+                  {
+                    "color": "red",
+                    "value": 30
+                  }
+                ]
+              },
+              "unit": "celsius"
+            },
+            "overrides": [],
+            "values": false
+          },
+          "orientation": "auto",
+          "showThresholdLabels": false,
+          "showThresholdMarkers": true
+        },
+        "pluginVersion": "6.6.1",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "gauge"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorPostfix": false,
+        "colorValue": true,
+        "colors": [
+          "#F2495C",
+          "#F2495C",
+          "#F2495C"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "percent",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 13,
+          "y": 15
+        },
+        "id": 23,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Max:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  max(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "max"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "max"
+      },
+      {
+        "datasource": null,
+        "gridPos": {
+          "h": 6,
+          "w": 4,
+          "x": 18,
+          "y": 15
+        },
+        "id": 26,
+        "options": {
+          "fieldOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "defaults": {
+              "mappings": [],
+              "max": 100,
+              "min": 0,
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "blue",
+                    "value": null
+                  },
+                  {
+                    "color": "green",
+                    "value": 20
+                  },
+                  {
+                    "color": "red",
+                    "value": 60
+                  }
+                ]
+              },
+              "unit": "percent"
+            },
+            "overrides": [],
+            "values": false
+          },
+          "orientation": "auto",
+          "showThresholdLabels": false,
+          "showThresholdMarkers": true
+        },
+        "pluginVersion": "6.6.1",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  timestamp AS \"time\",\n  entity AS metric,\n  value\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nORDER BY timestamp",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "gauge"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#FADE2A",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "celsius",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 0,
+          "y": 17
+        },
+        "id": 11,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Avg:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  avg(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "avg"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "avg"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#FADE2A",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "percent",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 13,
+          "y": 17
+        },
+        "id": 24,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Avg:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  avg(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "avg"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "avg"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#5794F2",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "celsius",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 0,
+          "y": 19
+        },
+        "id": 10,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Min:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  min(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'temp'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "min"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'temp'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "min"
+      },
+      {
+        "cacheTimeout": null,
+        "colorBackground": false,
+        "colorValue": true,
+        "colors": [
+          "#5794F2",
+          "rgba(237, 129, 40, 0.89)",
+          "#d44a3a"
+        ],
+        "datasource": null,
+        "decimals": 2,
+        "format": "percent",
+        "gauge": {
+          "maxValue": 100,
+          "minValue": 0,
+          "show": false,
+          "thresholdLabels": false,
+          "thresholdMarkers": true
+        },
+        "gridPos": {
+          "h": 2,
+          "w": 4,
+          "x": 13,
+          "y": 19
+        },
+        "id": 25,
+        "interval": null,
+        "links": [],
+        "mappingType": 1,
+        "mappingTypes": [
+          {
+            "name": "value to text",
+            "value": 1
+          },
+          {
+            "name": "range to text",
+            "value": 2
+          }
+        ],
+        "maxDataPoints": 100,
+        "nullPointMode": "connected",
+        "nullText": null,
+        "options": {},
+        "pluginVersion": "6.6.1",
+        "postfix": "",
+        "postfixFontSize": "50%",
+        "prefix": "Min:",
+        "prefixFontSize": "50%",
+        "rangeMaps": [
+          {
+            "from": "null",
+            "text": "N/A",
+            "to": "null"
+          }
+        ],
+        "sparkline": {
+          "fillColor": "rgba(31, 118, 189, 0.18)",
+          "full": false,
+          "lineColor": "rgb(31, 120, 193)",
+          "show": false,
+          "ymax": null,
+          "ymin": null
+        },
+        "tableColumn": "",
+        "targets": [
+          {
+            "format": "time_series",
+            "group": [
+              {
+                "params": [
+                  "$__interval",
+                  "none"
+                ],
+                "type": "time"
+              }
+            ],
+            "metricColumn": "entity",
+            "rawQuery": false,
+            "rawSql": "SELECT\n  $__timeGroupAlias(timestamp,$__interval),\n  entity AS metric,\n  min(value) AS \"value\"\nFROM dht11_table\nWHERE\n  $__timeFilter(timestamp) AND\n  entity = 'hum'\nGROUP BY 1,2\nORDER BY $__timeGroup(timestamp,$__interval)",
+            "refId": "A",
+            "select": [
+              [
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "column"
+                },
+                {
+                  "params": [
+                    "min"
+                  ],
+                  "type": "aggregate"
+                },
+                {
+                  "params": [
+                    "value"
+                  ],
+                  "type": "alias"
+                }
+              ]
+            ],
+            "table": "dht11_table",
+            "timeColumn": "timestamp",
+            "timeColumnType": "timestamp",
+            "where": [
+              {
+                "name": "$__timeFilter",
+                "params": [],
+                "type": "macro"
+              },
+              {
+                "datatype": "varchar",
+                "name": "",
+                "params": [
+                  "entity",
+                  "=",
+                  "'hum'"
+                ],
+                "type": "expression"
+              }
+            ]
+          }
+        ],
+        "thresholds": "",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "",
+        "transparent": true,
+        "type": "singlestat",
+        "valueFontSize": "120%",
+        "valueMaps": [
+          {
+            "op": "=",
+            "text": "N/A",
+            "value": "null"
+          }
+        ],
+        "valueName": "min"
+      }
+    ],
+    "schemaVersion": 22,
+    "style": "dark",
+    "tags": [],
+    "templating": {
+      "list": []
+    },
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "timepicker": {
+      "refresh_intervals": [
+        "5s",
+        "10s",
+        "30s",
+        "1m",
+        "5m",
+        "15m",
+        "30m",
+        "1h",
+        "2h",
+        "1d"
+      ]
+    },
+    "timezone": "",
+    "title": "Data Logger",
+    "uid": "pndb9rRRk",
+    "version": 18
+  }

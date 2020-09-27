@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipleGarageOpener_XamarinV1._0</string>
+    <string name="action_settings">Settings</string>
+    <string name="garage">Garáž</string>
+    <string name="rgw">Zadná Brána Celá</string>
+    <string name="rgh">Zadná Brána Pólka</string>
+    <string name="fgw">Predná Brána Celá</string>
+    <string name="fgh">Predná Brána Pólka</string>
+</resources>

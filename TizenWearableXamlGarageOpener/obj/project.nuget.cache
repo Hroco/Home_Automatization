@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KbQ1SnL2EJTzpxlcI5O5VG+CkkkUsPLiEnncUAsVlnbHEhAqu8RzX6iKTrQF4G2R/d6cJIOjxAJb3Rt4aYQkw==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\Github\\TizenWearableXamlGarageOpener\\TizenWearableXamlGarageOpener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samko\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\samko\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\samko\\.nuget\\packages\\tizen.net.api4\\4.0.1.14164\\tizen.net.api4.4.0.1.14164.nupkg.sha512",
+    "C:\\Users\\samko\\.nuget\\packages\\tizen.wearable.circularui\\1.3.2\\tizen.wearable.circularui.1.3.2.nupkg.sha512",
+    "C:\\Users\\samko\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}

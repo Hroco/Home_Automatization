@@ -1,0 +1,777 @@
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.aab
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.apk
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\build.props
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\adb.props
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csprojAssemblyReference.cache
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res.flag
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\B7370302135556A9.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\7BFBB2592D5571E1.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\6BEA0F7C7A550501.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\B8C281D8FB73FA7A.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\54DFAAC0A814745B.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\109BC509BD146963.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\BB9AA1249B10BFAF.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\FFDECEED8E10A297.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\EFCF73C8D910D677.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\B7370302135556A9.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\7BFBB2592D5571E1.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\6BEA0F7C7A550501.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\B8C281D8FB73FA7A.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\54DFAAC0A814745B.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\109BC509BD146963.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\BB9AA1249B10BFAF.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\FFDECEED8E10A297.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\EFCF73C8D910D677.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\compiled.flata
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.txt
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.cs.flag
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csproj.CoreCompileInputs.cache
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\base.zip
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apks
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\activity_main.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\content_main.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\colors.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\dimens.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\ic_launcher_background.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\strings.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\styles.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\menu\menu_main.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\uploadflags.txt
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\resolvedassemblies.hash
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.x86.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.x86.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\AndroidManifest.xml
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\__environment__.txt
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\machine.config
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\mono.android.jar
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\static.flag
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\buildid.txt
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.s
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\compat\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\transition\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64d3bc37bd7d339be1\MainActivity.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\packaged_resources
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\com\companyname\multiplegarageopener_xamarinv1\x_0\R.java
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.x86.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.x86.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.jm.x86_64.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemap.mj.x86_64.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.o
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\classes.dex
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\Work\Github\Xamarin\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.aab
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.apk
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\build.props
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\adb.props
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csprojAssemblyReference.cache
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res.flag
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\D79F9F17F1357D02.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\1B532E4CCF355A4A.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\0B42936998352EAA.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\D86A1DCD1913D1D1.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\347736D54A745FF0.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\7033591C5F7442C8.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\DB323D3179709404.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\9F7652F86C70893C.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\8F67EFDD3B70FDDC.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\D79F9F17F1357D02.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\1B532E4CCF355A4A.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\0B42936998352EAA.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\D86A1DCD1913D1D1.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\347736D54A745FF0.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\7033591C5F7442C8.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\DB323D3179709404.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\9F7652F86C70893C.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\8F67EFDD3B70FDDC.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\compiled.flata
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.txt
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.cs.flag
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csproj.CoreCompileInputs.cache
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\base.zip
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apks
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\activity_main.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\content_main.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\colors.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\dimens.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\ic_launcher_background.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\strings.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\styles.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\menu\menu_main.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\uploadflags.txt
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\resolvedassemblies.hash
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Java.Interop.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.arm64-v8a.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86_64.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.shared.inc
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\AndroidManifest.xml
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\__environment__.txt
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\machine.config
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\mono.android.jar
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\static.flag
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\buildid.txt
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.s
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\compat\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\transition\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64d3bc37bd7d339be1\MainActivity.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\packaged_resources
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\com\companyname\multiplegarageopener_xamarinv1\x_0\R.java
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.arm64-v8a.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86_64.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.o
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\classes.dex
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CompileToDalvik.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertCustomView.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+F:\Work\Github\MultipleGarageOpener\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.aab
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\bin\Debug\com.companyname.multiplegarageopener_xamarinv1.x_0-Signed.apk
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\build.props
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\adb.props
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csprojAssemblyReference.cache
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res.flag
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\CA7EF8C15D611271.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\06B2499A63613539.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\16A3F4BF346141D9.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\C58B7A1BB547BEA2.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\29965103E6203083.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\6DD23ECAF3202DBB.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\C6D35AE7D524FB77.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\8297352EC024E64F.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\9286880B972492AF.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\CA7EF8C15D611271.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\06B2499A63613539.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\16A3F4BF346141D9.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\C58B7A1BB547BEA2.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\29965103E6203083.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\6DD23ECAF3202DBB.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\C6D35AE7D524FB77.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\8297352EC024E64F.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\9286880B972492AF.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\flata\compiled.flata
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.txt
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\R.cs.flag
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.csproj.CoreCompileInputs.cache
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apk
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\base.zip
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.aab
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\com.companyname.multiplegarageopener_xamarinv1.x_0.apks
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\activity_main.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\layout\content_main.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\colors.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\dimens.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\ic_launcher_background.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\strings.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\values\styles.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\menu\menu_main.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\uploadflags.txt
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\resolvedassemblies.hash
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Java.Interop.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Android.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Mono.Security.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\mscorlib.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\MultipleGarageOpener_XamarinV1._0.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Core.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Net.Http.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\System.Xml.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.arm64-v8a.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86_64.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.shared.inc
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\AndroidManifest.xml
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\__environment__.txt
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\assets\machine.config
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\mono.android.jar
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\static.flag
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\buildid.txt
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.s
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\compat\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\customtabs\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\transition\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\crc64d3bc37bd7d339be1\MainActivity.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\packaged_resources
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\src\com\companyname\multiplegarageopener_xamarinv1\x_0\R.java
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.arm64-v8a.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.armeabi-v7a.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\typemaps.x86_64.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.arm64-v8a.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.armeabi-v7a.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\environment.x86_64.o
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\android\bin\classes.dex
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_CompileToDalvik.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertCustomView.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+F:\Work\Github\Home Automatization\MultipleGarageOpener_XamarinV1._0\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

@@ -1,0 +1,14 @@
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\TizenWearableXamlGarageOpener.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\TizenWearableXamlGarageOpener.pdb
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Core.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Xaml.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\TizenWearableXamlGarageOpener.deps.json
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\res\logo.png
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\res\logo2.png
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\shared\res\TizenWearableXamlGarageOpener.png
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\tpkroot\tizen-manifest.xml
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\org.tizen.example.TizenWearableXamlGarageOpener-1.0.0.tpk

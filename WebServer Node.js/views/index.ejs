@@ -1,0 +1,67 @@
+<header>
+  <div class="fill">
+   <div class="container">
+    <a class="brand" href="#">Vanilia WebServer</a>
+    <ul class="nav">
+       <li class="dropdown">
+           <a class="menu" href="#">Status</a>
+  <ul class="dropdown-menu">
+   <li><a href="/">Overview</a></li>
+   <li><a href="/graph">Realtime Graphs</a></li>
+   <li><a href="/cameras">Cameras</a></li>
+ </ul>
+       </li>
+ 
+       <li class="dropdown">
+           <a class="menu" href="#">Controls</a>
+  <ul class="dropdown-menu">
+   <li><a href="/gates">Gates</a></li>
+   <li><a href="/">Lights</a></li>
+   <li><a href="/">Reboot</a></li>
+ </ul>
+       </li>
+ 
+       <li class="dropdown">
+        <a class="menu" href="#">Information</a>
+<ul class="dropdown-menu">
+<li><a href="/">Network</a></li>
+<li><a href="/">Arduino</a></li>
+<li><a href="/">Raspbery</a></li>
+</ul>
+    </li>
+
+       <li class="dropdown">
+           <a class="menu" href="#">Administration</a>
+  <ul class="dropdown-menu">
+   <li><a href="/">Users</a></li>
+   <li><a href="/">Diagnostics</a></li>
+ </ul>
+       </li>
+ 
+        <li>
+          <form action="/logout?_method=DELETE" method="POST">
+            <a href="javascript:;" onclick="parentNode.submit();">Logout</a>
+        </form>
+       </li> 
+   
+ </ul>
+
+ 
+ <div class="pull-right">
+ 
+     <span id="xhr_poll_status" style="display:none" onclick="XHR.running() ? XHR.halt() : XHR.run()">
+      <span class="label success" id="xhr_poll_status_on">Auto Refresh on</span>
+      <span class="label" id="xhr_poll_status_off" style="display:none">Auto Refresh off</span>
+     </span>
+    </div>
+ 
+   </div>
+  </div>
+ </header>
+
+ <div id="maincontent" class="container">
+
+ 
+<h2>Welcome to vanilia WebServer</h2>
+<br>
+</div>

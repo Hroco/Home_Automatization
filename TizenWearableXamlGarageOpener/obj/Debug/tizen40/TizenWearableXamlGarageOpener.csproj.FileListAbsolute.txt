@@ -1,0 +1,12 @@
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\App.xaml.g.cs
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\MainPage.xaml.g.cs
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.AssemblyInfoInputs.cache
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.AssemblyInfo.cs
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.csproj.CoreCompileInputs.cache
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.pdb
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\TizenWearableXamlGarageOpener.deps.json
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\TizenWearableXamlGarageOpener.dll
+F:\Work\Github\TizenWearableXamlGarageOpener\bin\Debug\tizen40\TizenWearableXamlGarageOpener.pdb
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\XamlC.stamp
+F:\Work\Github\TizenWearableXamlGarageOpener\obj\Debug\tizen40\TizenWearableXamlGarageOpener.csprojAssemblyReference.cache
